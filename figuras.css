@@ -1,0 +1,45 @@
+#cabecera {
+    background-color: blue;
+    margin: 25px;
+    padding: 8px;
+    border-radius: 15px;
+}
+.tituloPrincipal {
+    color: white;
+    text-align: center;
+}
+.parrafoPrincipal {
+    color: white;
+    text-align: center;
+}
+
+
+
+#cuerpo {
+    background-color: greenyellow;
+    margin: 25px;
+    padding: 8px;
+    border-radius: 15px;
+}
+.tituloCuadrado {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.formularioCuadrado {
+    background-color: aqua;
+}
+.botonesCuadrados{
+    display: inline-block;
+}
+.tituloTriangulo {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.formularioTriangulo {
+    background-color: aqua;
+}
+.botonesTriangulos{
+    display: inline;
+}
